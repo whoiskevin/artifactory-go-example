@@ -7,6 +7,7 @@ To work with Go repositories you need to use [JFrog CLI](https://www.jfrog.com/c
 ## Prerequisites
 * Get Artifactory trial, [on-prem or in the cloud](https://jfrog.com/artifactory/free-trial/)
 * Install version 1.11 or above of Go.
+* Enable module support in Go ```export GO111MODULE=on```
 * Install version 1.19.1 of [JFrog CLI](https://jfrog.com/getcli/)
 * Fork and clone this project
 
